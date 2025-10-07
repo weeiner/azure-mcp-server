@@ -1,0 +1,14 @@
+{
+  "servers": {
+    "azure-devops-mcp-test": {
+      "type": "stdio",
+      "command": "java",
+      "args": [
+        "-jar",
+        "target/azure-devops-mcp-server-0.0.1-SNAPSHOT.jar",
+        "--stdio"
+      ]
+    }
+  },
+  "inputs": []
+}
