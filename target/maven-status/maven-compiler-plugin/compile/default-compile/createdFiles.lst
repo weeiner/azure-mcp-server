@@ -12,6 +12,7 @@ com/example/azuredevopsmcpserver/mcp/JsonRpcRequest.class
 com/example/azuredevopsmcpserver/azuredevops/AzureDevOpsService$1.class
 com/example/azuredevopsmcpserver/mcp/JsonRpcMessage.class
 com/example/azuredevopsmcpserver/azuredevops/AzureDevOpsService$4.class
+com/example/azuredevopsmcpserver/azuredevops/AzureDevOpsCredentials.class
 com/example/azuredevopsmcpserver/mcp/InitializeRequest.class
 com/example/azuredevopsmcpserver/mcp/CallToolRequest.class
 com/example/azuredevopsmcpserver/mcp/JsonRpcResponse.class

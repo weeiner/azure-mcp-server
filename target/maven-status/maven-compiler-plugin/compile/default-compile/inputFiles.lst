@@ -1,5 +1,6 @@
 /Users/gabriel/Desktop/Practice/projects/azure-mcp-server/src/main/java/com/example/azuredevopsmcpserver/AzureDevOpsMcpServerApplication.java
 /Users/gabriel/Desktop/Practice/projects/azure-mcp-server/src/main/java/com/example/azuredevopsmcpserver/azuredevops/AzureDevOpsConfig.java
+/Users/gabriel/Desktop/Practice/projects/azure-mcp-server/src/main/java/com/example/azuredevopsmcpserver/azuredevops/AzureDevOpsCredentials.java
 /Users/gabriel/Desktop/Practice/projects/azure-mcp-server/src/main/java/com/example/azuredevopsmcpserver/azuredevops/AzureDevOpsService.java
 /Users/gabriel/Desktop/Practice/projects/azure-mcp-server/src/main/java/com/example/azuredevopsmcpserver/azuredevops/model/AzureDevOpsProject.java
 /Users/gabriel/Desktop/Practice/projects/azure-mcp-server/src/main/java/com/example/azuredevopsmcpserver/azuredevops/model/WorkItem.java
